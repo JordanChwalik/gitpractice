@@ -1,4 +1,4 @@
-ABC
-Easy as one, two, three
-Simple as do, re, me
-ABC
+One
+two
+ready?
+Go!
